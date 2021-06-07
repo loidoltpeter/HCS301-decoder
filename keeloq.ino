@@ -1,4 +1,4 @@
-//simpe keeloq decoder without interrupts (works with every pin)
+//simple keeloq decoder without interrupts (works with every pin)
 
 #define HCS_RX_PIN  11
 
